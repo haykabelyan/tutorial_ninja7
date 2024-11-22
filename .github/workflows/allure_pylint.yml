@@ -1,4 +1,4 @@
-name: Python autotests2222
+name: Python autotests with allure
 
 on: 
    workflow_dispatch:
